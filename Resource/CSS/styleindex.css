@@ -1,0 +1,108 @@
+
+.head{
+    text-align: center;
+    color: red;
+    align-items: center;
+}
+.footer{
+    text-align: center;
+    background-color: #07A1C7;
+}
+.img_dg img{
+    border: 1px solid black;
+    float: left;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+.infor{
+    border: 1px solid black;
+    margin-left: 10px
+       
+}
+.header{
+    display: flex;
+    
+}
+.menu{
+   align-items: center;
+   margin: auto;
+   width: 300px;
+
+}
+.sear{
+    align-items: end;
+justify-content: center;
+margin: auto;
+width: 500px;
+padding-left: 400px;
+}
+.logo{
+    margin: auto;
+    width: 300px;
+    padding-left: 500px;
+}
+.but{
+    background-color: black;
+    color: white;
+}
+.pro1{
+    display: flex;
+ 
+}
+.acces{
+    display: flex ;
+    margin-left: 100px;
+}
+.acces img{
+    width: 300px;
+
+}
+.ele1{
+    display: flex;
+}
+.mouse{
+    display: flex;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 50px;
+    width: 2600px;
+    padding: 20px;
+    height: 300px;
+    
+}
+.gb512{
+    display: flex;
+    border: 1px solid black;
+    margin-left: 5px;
+    
+    width: 2400px;
+    padding: 20px;
+    height: 300px;
+}
+.informouse{
+    padding-right: 50px;
+}
+.detail{
+    color: #88D2ED; 
+    margin-top: 2px;
+    padding-left: 10px;
+}
+.word p{
+    padding-left: 10px;
+   
+}
+.abc{
+    text-anchor: middle;
+}
+.fot{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.a{
+    color: white;
+    font-size: 10px;
+}
+.navbar a{
+    display: none;
+}
